@@ -1,0 +1,9 @@
+{
+  "Name": "Mouse Mobile Support",
+  "Author": "ChatGPT",
+  "Version": "1.0.0",
+  "Description": "Adds basic mouse support for Stardew Valley Mobile",
+  "UniqueID": "chatgpt.mousemobile",
+  "EntryDll": "MouseMobile.dll",
+  "MinimumApiVersion": "4.0.0"
+}
